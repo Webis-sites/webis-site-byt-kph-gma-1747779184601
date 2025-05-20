@@ -9,6 +9,7 @@ import TestimonialsSection from '@/components/TestimonialsSection';
 import BookingSection from '@/components/BookingSection';
 import ContactSection from '@/components/ContactSection';
 import CTASection from '@/components/CTASection';
+import Footer from '@/components/Footer';
 
 export default function HomePage() {
   return (
@@ -24,6 +25,7 @@ export default function HomePage() {
         <BookingSection />
         <ContactSection />
         <CTASection />
+        <Footer />
       </main>
     </>
   );
