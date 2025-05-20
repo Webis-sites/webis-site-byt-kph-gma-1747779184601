@@ -9,7 +9,9 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #4ECDC4;
       --secondary-color: #588C7E;
-    }
+    
+  --font-rubik: var(--font-rubik);
+}
 
     html {
       scroll-behavior: smooth;
