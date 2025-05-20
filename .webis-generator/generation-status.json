@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-20T22:16:07.279Z",
+  "timestamp": "2025-05-20T22:16:59.309Z",
   "status": {
     "totalComponents": 11,
-    "completedComponents": 3,
+    "completedComponents": 4,
     "failedComponents": 0,
-    "progress": 27
+    "progress": 36
   },
   "components": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "AboutSection",
       "type": "about",
-      "status": "pending",
+      "status": "completed",
       "description": "Section highlighting the café's history, values and expertise"
     },
     {
