@@ -16,6 +16,9 @@
   --transition-speed: 0.3s;
 
   --font-size-base: 1rem;
+
+  --shadow-neumorphic: 6px 6px 12px rgba(0, 0, 0, 0.1), -6px -6px 12px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-hover: 8px 8px 16px rgba(0, 0, 0, 0.1), -8px -8px 16px rgba(255, 255, 255, 0.8);
 }
 
     html {
