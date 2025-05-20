@@ -1,0 +1,7 @@
+
+    # robots.txt for בית קפה גמא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://בית-קפה-גמא.com/sitemap.xml
