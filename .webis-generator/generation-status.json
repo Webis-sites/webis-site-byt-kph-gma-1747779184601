@@ -1,8 +1,11 @@
 {
-  "projectName": "בית-קפה-גמא-9184",
-  "businessName": "בית קפה גמא",
-  "created": "2025-05-20T22:13:05.204Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-05-20T22:13:28.067Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-byt-kph-gma-1747779184601"
 }
